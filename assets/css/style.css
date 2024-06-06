@@ -1,0 +1,205 @@
+/*Main CSS for Project One */
+
+/* ------ General Rules -------- */
+
+body {
+    font-family: "roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+    color: black;
+}
+
+main {
+    padding-bottom: 150px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    text-align: justify;
+    text-justify: inter-word;
+    margin: 10px;
+}
+
+li {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.centre {
+    text-align: center;
+    margin: auto;
+}
+
+.bold {
+    font-weight: 800;
+}
+
+.hidden {
+    display: none;
+}
+
+/* ------ Header Styles & Menu Link Styles -------- */
+
+nav {
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.nav-link.active {
+    color: #ae853e  !important;
+}
+
+.nav-link:hover {
+    color: #ae853e !important;
+}
+
+#headerid {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    color: black;
+    background-color: #C1DBDA;
+    padding: 0;
+    height: 120px;
+}
+
+
+
+/* css Style classes ready (apply to all pages) */
+
+
+/* ------ Main Page Content -------- */
+
+#onlinedangers {
+    text-align: center;
+}
+
+.dangersonline-icon {
+    font-size: 72px;
+    color: #a359a0;
+    padding-right: 50px;
+
+}
+
+.dangersonline-heading {
+    margin-bottom: 15px;
+}
+
+.section-column {
+    justify-content: center;
+    display: table;
+    padding: 0 30px 30px;
+    float: none;
+}
+
+
+.safeimage {
+    width: 200px;
+}
+
+#videocontentsafeonline {
+    text-align: center;
+    justify-content: center;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    background: #000;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* ------- Best Practice Content ---------  */
+#bestpracticeid {
+    text-align: left;
+}
+
+.bestlist {
+    margin: 10px;
+    padding: 10px;
+    background-color: #e1fbfa;
+    list-style-type: none;
+}
+
+/* ------- Best  Resource Content -----*/
+
+#resourceid {
+    text-align: center;
+}
+
+/* ------ Footer Styles -------- */
+
+#footerid {
+    text-align: center;
+    color: #1d3557;
+    background-color: #C1DBDA;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    padding: 0em;
+}
+
+
+/* -- Social Link Styles (edited from original at Code Institute "Love Rosie" project) -- */
+
+.social-links {
+    padding-bottom: 15px;
+    margin: auto;
+}
+
+.social-links li a i {
+    width: 24px;
+    height: 24px;
+    padding: 8px 0;
+    border-radius: 20%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fff;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.social-links li a i:hover {
+    background: orange;
+
+}
+
+
+/* Media queries */
+
+/* remove the logo on screens below 768px width */
+@media (max-width: 768px) {
+    .codeteersimagelogo {
+        display: none;
+    }
+}
