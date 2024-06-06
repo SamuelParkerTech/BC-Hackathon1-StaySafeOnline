@@ -2,7 +2,7 @@
 
 Welcome Samuel Parker,
 
-A personal version with changes for Hackathon 1. Slight differences in style to the main one. 
+ 
 
 **Samuel, Ted, Ahmed, Hackathon 1: Staying Safe Online. June 2024**
 
