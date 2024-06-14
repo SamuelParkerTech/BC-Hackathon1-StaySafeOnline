@@ -31,19 +31,21 @@ Basic designs for the pages created in Canva.
 <img src="Projectassets/Website MockUps.jpg">
 
 # 4. Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-![image](https://github.com/SamuelParkerTech/WWBC-3CODETEERS-HACK1/assets/169777591/02b7ed73-b717-4e10-ad93-0e1d8bda585d)
-
-![image](https://github.com/SamuelParkerTech/WWBC-3CODETEERS-HACK1/assets/169777591/fdd6e246-78ec-4e92-9c10-b5030ca04674)
-
-![image](https://github.com/SamuelParkerTech/WWBC-3CODETEERS-HACK1/assets/169777591/c033e86b-c89c-4167-982a-86a7977b26e9)
 
 Navigation Bar - Main topper , links to the other 3 pages with a notifier of which page you are currently browsing. Visible on all pages.
 Header - Welcome platform to all pages including 'team logo' 'hero' image using our design scheme. 
 Staying Safe Online Page - Content including what dangers we face online, common issues and scams. 
+
+![image](https://github.com/SamuelParkerTech/WWBC-3CODETEERS-HACK1/assets/169777591/02b7ed73-b717-4e10-ad93-0e1d8bda585d)
+
 Best Practice Page - Content here detailing best practices and how to avoid online issues. Includes images and text. 
+
+![image](https://github.com/SamuelParkerTech/WWBC-3CODETEERS-HACK1/assets/169777591/fdd6e246-78ec-4e92-9c10-b5030ca04674)
+
 Resources Page - Links and more information on how to stay safe online. 
+
+![image](https://github.com/SamuelParkerTech/WWBC-3CODETEERS-HACK1/assets/169777591/c033e86b-c89c-4167-982a-86a7977b26e9)
+
 Footer - Social links and team details featured at the bottom of the page. Visible on all pages.
 
 Colour Scheme:
