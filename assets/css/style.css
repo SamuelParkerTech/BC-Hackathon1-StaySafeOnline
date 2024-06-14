@@ -142,6 +142,16 @@ nav {
     padding-top:30px;
 }
 
+.video-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .video-container iframe {
+    flex: 1 1 30%;
+    margin-bottom: 15px;
+  }
+
 /* ------ Footer Styles -------- */
 
 #footerid {
